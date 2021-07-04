@@ -10,7 +10,7 @@ h1{
 .name{color: chartreuse;
 }
 
-section{display: flex;}
+.flexible-container{display: flex;}
 
 .half-width{
     width:50%;
@@ -56,4 +56,12 @@ section{display: flex;}
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience-area{
+
+}
+
+.exp{
+    padding-left: 7%;
 }
