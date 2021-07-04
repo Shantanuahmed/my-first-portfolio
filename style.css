@@ -19,7 +19,7 @@ h1{
 
 .half-width img{
     width:68%;
-}
+} 
 
 .link-button{
   
@@ -64,4 +64,40 @@ h1{
 
 .exp{
     padding-left: 7%;
+}
+
+.box-1{
+ 
+box-shadow: 10px 10px 25px chartreuse;
+   width: 40%; 
+   margin-left: 5%;
+   margin-right: 5%;
+   padding-left: 20px;
+   border-radius: 30px;
+   margin-bottom: 60px;
+
+}
+
+h2{font-size: 30px;}
+
+.experience-area{background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+
+#first{
+    border-left: 10px solid;
+    border-image:linear-gradient(red,rgb(20, 1, 10));
+    border-image-slice: 1;
+
+}
+
+#second{    border-left: 10px solid;
+    border-image:linear-gradient(rgb(207, 112, 207),rgb(7, 11, 247));
+    border-image-slice: 1;
+
+
+}
+footer{text-align: center;
+    
 }
