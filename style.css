@@ -35,3 +35,25 @@ section{display: flex;}
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.blog-2{
+    margin-top: 150px;
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 7%;
+
+}
+
+.dream{
+    color: chartreuse;   
+}
+
+.second-img{
+    width:75%
+}
+
+.top-banner2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
